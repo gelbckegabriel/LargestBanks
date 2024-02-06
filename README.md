@@ -1,6 +1,6 @@
 <div>
   <h1><strong>Largest Banks Analysis - Data Engineering (ETL)</strong></h1>
-  <p>The Largest Banks is a capstone data engineering project using skills to complete an ETL (Extract, Transform and Load) pipeline for accessing data from a website and processing to meet requirements, the code written in here was made from me. To execute my code, you will need to install a few python packages, such as: <strong>requests, bs4, pandas, sqlite3, numpy & datetime</strong>.
+  <p>The Largest Banks is a data engineering project from Coursera to test skills to complete an ETL (Extract, Transform and Load) pipeline for accessing data from a website and processing to meet requirements, the code written in here was made from me. To execute my code, you will need to install a few python packages, such as: <strong>requests, bs4, pandas, sqlite3, numpy & datetime</strong>.
   </p>
   <h4>Author: <a href=https://www.linkedin.com/in/gabrielgelbcke/ target="_blank">©GabrielGelbcke</a></h4>
 
